@@ -1,5 +1,5 @@
 # get-video-source
-Get the source of currently playing video element on a page
+Get the source of currently playing video element in a browser
 
 ## Usage
  1. Save the [bookmarklet](../../raw/master/bookmarklet.txt) source as a bookmark in your browser
