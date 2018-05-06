@@ -1,5 +1,4 @@
-# get-video-source
-Get the source of currently playing video element in a browser
+> Get the source of currently playing video element in a browser.
 
 ## Usage
  1. Save the [bookmarklet](../../raw/master/bookmarklet.txt) source as a bookmark in your browser
@@ -9,4 +8,4 @@ Get the source of currently playing video element in a browser
  2. Open a page and start a video / stream, then wait until it starts playing
  3. Hit the bookmark previously created, and copy the source URL
 
-If the playing video can't be found, but an iframe used for videos is available, you can redirect to it's source and try again
+If the playing video can't be found, but an iframe used for videos is available, you can redirect to it's source and try again.
